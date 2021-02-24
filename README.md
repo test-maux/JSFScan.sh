@@ -8,4 +8,4 @@ Script made for all your javascript recon automation in bugbounty.
 3. Push, and wait GithubActions to end
 
 #### TODO:
-Send result by mail for privacy in private programs
+Send result by mail for privacy in private program
